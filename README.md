@@ -6,7 +6,7 @@
 irb -r ./food_chain.rb
 ```
 #### Print Song:
-```
+```ruby
 puts FoodChain.song
 ```
 #### Run Tests:
