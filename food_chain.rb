@@ -1,5 +1,9 @@
 # Usage:
 #   FoodChain.song
+#   puts FoodChain.song
+# To Run:
+#   ruby food_chain.rb
+#   irb -r ./food_chain.rb
 # To test:
 #  ruby food_chain_test.rb
 
