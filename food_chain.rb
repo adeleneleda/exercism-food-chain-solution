@@ -32,7 +32,7 @@ class FoodChain
         lines << swallow(subject)
         lines << generate_midverse(previous.reverse, index)
         lines << generate_fly_line(index)
-        lines << "" unless last?(index)
+        lines << ""
       end
 
       lines.flatten.compact.join("\n")
